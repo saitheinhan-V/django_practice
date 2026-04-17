@@ -1,0 +1,4 @@
+my_tennis_club/db.sqlite3
+my_tennis_club/my_tennis_club/__pycache__/
+my_tennis_club/members/__pycache__/
+my_tennis_club/members/migrations/*
